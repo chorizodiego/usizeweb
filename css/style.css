@@ -1390,3 +1390,7 @@ ul.short_ls li a {
         min-height: 535px;
     }
 }
+
+.to-center{
+    text-align: center;
+}
