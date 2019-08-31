@@ -89,7 +89,6 @@ font-size: 40px;
 color: #000;
 letter-spacing: 1px;
 font-weight:600;
-text-transform: capitalize;
 }
 
 .about-fashion-grid p,.wthree-about-list ul li p,.ser-sevice-grid p,
@@ -555,7 +554,7 @@ opacity:0.8;
 /*--//banner-- */
 /*--inner-banne-- */
 .inner_page-banner {
-    background: url(../images/b1.png) no-repeat center;
+    background: url(../images/nosotros.png) no-repeat center;
     max-width: 100%;
     background-size: auto;
     -webkit-background-size: cover;
