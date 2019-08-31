@@ -803,10 +803,11 @@ border-radius:0px;
   transition: 0.5s all;
   cursor: pointer;
 }
+.social-icons { float: right; }
 .social-icons ul li{
-width: 30px;
+    width: 50px;
     text-align: center;
-    height: 30px;
+    height: 50px;
     margin: 0px 2px;
 }
 .social-icons ul li.facebook {background:#0078d7;}
@@ -814,8 +815,8 @@ width: 30px;
 .social-icons ul li.ig{background:#f26522;}
 .social-icons ul li a span{
   color: #fff;
-  font-size:13px;
-  line-height: 30px;
+  font-size:30px;
+  line-height: 50px;
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
   transition: 0.5s all;
@@ -824,6 +825,7 @@ width: 30px;
 ul.bottom-menu li{
     display: block;
 }
+.footer-titles  { width: 50%; }
 .footer-titles h4 {
     font-size: 19px;
     color: #000;
