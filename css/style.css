@@ -37,8 +37,10 @@ a.logo-sg {
 img.logo-sg { 
     height: 50px;
 }
-<img src="imageURL.png" width="24px" height="19px">
-<a href="#" class="follow"> Follow Us</a>
+.logo-sg{
+    margin-right: 10px;
+}
+
 input[type="button"],
 input[type="submit"] {
 transition: 0.5s all;
@@ -90,6 +92,8 @@ color: #000;
 letter-spacing: 1px;
 font-weight:600;
 }
+.about-fashion-grid{
+    }
 
 .about-fashion-grid p,.wthree-about-list ul li p,.ser-sevice-grid p,
 .table-sub-title ul li,.counter-wthree-list p,.ser-fashion-grid p,.error-founded p,.clients-ile-img p{
@@ -1373,3 +1377,16 @@ ul.short_ls li a {
 }
 /*--//responsive--*/
 
+#video-usize{
+    padding-bottom: 20px;
+}
+
+.caracteristicas{
+    padding-bottom:15px
+}
+
+@media(min-width:1024px){
+    .meh{
+        min-height: 535px;
+    }
+}
