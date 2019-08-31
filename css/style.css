@@ -555,13 +555,14 @@ opacity:0.8;
 /*--//banner-- */
 /*--inner-banne-- */
 .inner_page-banner {
-    background: url(../images/bb1.jpg) no-repeat center;
-    background-size: cover;
+    background: url(../images/b1.png) no-repeat center;
+    max-width: 100%;
+    background-size: auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height: 380px;
+    min-height: 600px;
 }
 .using-border {
     width: 100%;
