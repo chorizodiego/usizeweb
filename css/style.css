@@ -1214,6 +1214,10 @@ ul.short_ls li a {
 .table-sub-title h6 {
     font-size: 15px;
 }
+.img-play {
+    max-width:50px;
+    height:auto
+}
 .gallery-img-grid {
     width: 73%;
     margin: 0px auto;
