@@ -31,6 +31,11 @@ body a:focus,
 a:hover {
 text-decoration: none;
 }
+img.logo-sg { 
+    height: 50px;
+}
+<img src="imageURL.png" width="24px" height="19px">
+<a href="#" class="follow"> Follow Us</a>
 input[type="button"],
 input[type="submit"] {
 transition: 0.5s all;
@@ -127,8 +132,8 @@ h5.top-title{
 
 /* Giving a background-color to the nav container. */
 nav {
-    margin: 0;
     padding: 0;
+    margin-top: 10px;
 }
 
 #logo a {
@@ -506,7 +511,7 @@ li>a:only-child:after {
     width: 100%;
     z-index: 99;
     background:#66CCFF;
-    padding: 2em 15em;
+    padding: 20px 250px 20px 250px;
     box-shadow: 0px 0px 3px #6b6b6b;
 }
 
