@@ -497,7 +497,10 @@ li>a:only-child:after {
 
 /* //search */
 /* banner */
-.main-top{position:relative;}
+.main-top{
+    position:relative;
+    background-color: #66cbfc29;
+}
 .header-top {
     position: absolute;
     width: 100%;
