@@ -31,6 +31,9 @@ body a:focus,
 a:hover {
 text-decoration: none;
 }
+a.logo-sg {
+    color: black !important;
+}
 img.logo-sg { 
     height: 50px;
 }
