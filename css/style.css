@@ -499,7 +499,7 @@ li>a:only-child:after {
 /* banner */
 .main-top{
     position:relative;
-    background-color: #66cbfc29;
+    background-color: #66cbfc08;
 }
 .header-top {
     position: absolute;
@@ -523,6 +523,8 @@ li>a:only-child:after {
     color:#a7a3a3;
     font-weight:400;
     line-height: 27px;
+    text-align: justify;
+    text-justify: inter-word;
 }
 .outs_more-buttn a {
     font-size: 13px;
