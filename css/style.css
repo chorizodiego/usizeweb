@@ -37,6 +37,9 @@ a.logo-sg {
 img.logo-sg { 
     height: 50px;
 }
+.logo-sg{
+    margin-right: 7px;
+}
 
 input[type="button"],
 input[type="submit"] {
