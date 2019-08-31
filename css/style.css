@@ -1212,6 +1212,9 @@ ul.short_ls li a {
 .service-icon{
     margin-bottom: 20px;
 }
+.row-video{
+    text-align: center;
+}
 .price-price,.about-grid-gried,.counter-list-grid,.team-our-wthree{width:50%;}
 .slider-info {
     text-align: center;
